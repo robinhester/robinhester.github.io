@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Lambda School: "http://www.lambdaschool.com"
     - Five Thirty Eight Data: "https://data.fivethirtyeight.com/"
-  Author's home: "http://www.robinhester.github.io"
+  Author's home: "http://www.facebook.com/robin.hester.942"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,7 +69,7 @@ name: Robin Hester
 social-network-links:
   rss: true
   email: "robin.hester@yahoo.com"
-  #facebook: deanattali
+  facebook: robin.hester.942
   github: robinhester
   #twitter: daattali
 #  reddit: yourname
@@ -77,10 +77,10 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: angelharlee
 #  youtube: user/deanat78
 #  spotify: yourname
- # telephone: 678 755-1567
+   telephone: 678 755-1567
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -88,7 +88,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: false
-  facebook: false
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
