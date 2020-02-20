@@ -68,19 +68,19 @@ name: Robin Hester
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 rss: false
-  email: "robin.hester@yahoo.com"
-  facebook: "www.facebook.com/robin.hester.942"
-  github: "www.github.com/robinhester"
+  #email: "robin.hester@yahoo.com"
+  #facebook: "www.facebook.com/robin.hester.942"
+  #github: "www.github.com/robinhester"
   #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: angelharlee
+  # instagram: angelharlee
 #  youtube: user/deanat78
 #  spotify: yourname
-   telephone: 678 755-1567
+   #telephone: 678 755-1567
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
