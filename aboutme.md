@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Portfolio Projects
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+##My Name is Robin Hester and I am a Data Science student at Lambda School. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a huge geek, and I am passionate about what I love. 
 
-What else do you need?
+You will see most of my projects are popculture related, and that's because I feel popculture speaks a lot about the world.
 
-### my history
+Stay tuned for interesting and complex ideas in my future projects. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My History
+
+Most of my work history is in management in a multitude of fields, mostly retail related. 
+
+My favorite was managing a video game store and the amount of knowledge gamers have about not just games, but comics, and 
+manga, and pretty much everything my nerdy heart desired. 
+
+
+
+
