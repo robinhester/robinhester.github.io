@@ -4,7 +4,7 @@ title: About me
 subtitle: Portfolio Projects
 ---
 
-##My Name is Robin Hester and I am a Data Science student at Lambda School. 
+My Name is Robin Hester and I am a Data Science student at Lambda School. 
 
 I am a huge geek, and I am passionate about what I love. 
 
