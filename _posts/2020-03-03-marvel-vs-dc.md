@@ -17,11 +17,11 @@ comments: true
 
 
 
->I began by looking at total amount of appearances, versus the amount of years they had been in the comics. Just because they had been around longer, does not mean that they were the most popular. So I came up with an average of appearances per year they had been in the comics and this gave me my totals. 
+I began by looking at total amount of appearances, versus the amount of years they had been in the comics. Just because they had been around longer, does not mean that they were the most popular. So I came up with an average of appearances per year they had been in the comics and this gave me my totals. 
 
 
 
-Overall, Marvel had the most popular characters. With only a few DC favorites, Superman being number one overall, it was clear who the winner here was. Marvel characters by far beat out DC in the overall popularity, but Superman was still the most popular. 
+>Overall, Marvel had the most popular characters. With only a few DC favorites, Superman being number one overall, it was clear who the winner here was. Marvel characters by far beat out DC in the overall popularity, but Superman was still the most popular. 
 
 *What about the women?* 
 >Well overall, Marvel one that as well. There was only one woman superhero in the entire top ten that was a DC character, which is Kora Zor-El, aka, Superwoman. So so far, the top DC is still Superman and Superwoman, but, Marvel is beating out DC, overall. 
@@ -32,5 +32,7 @@ Overall, Marvel had the most popular characters. With only a few DC favorites, S
 >The Earth 616 series, is the most popular Marvel X-men series. This being said, since X-men is such a large series, it stands to reason that X-men is just more popular than most of the DC comics. However, Superman is more popular than the X-men series. So again, I'm back to my original question, which one is truly more popular?
 
 This is probably a question that can't be truly answered. But overall, I'm showing proof that Superman and X-men are both popular in the comics.
+
+I wanted to see if there was any correlation between the appearances, the Sex of the character, and the alignment of the character. Would the fact that they were female, change the amount of appearances they had? Would the fact that they were a neutral character change things? I ran some tests, and it was pretty obvious, there was no linear correlation between any of these variables. 
 
 
