@@ -6,7 +6,7 @@ gh-badge: [star]
 tags: [Marvel,DC,Comics] 
 comments: true
 ---
-*Marvel vs. Dc.* 
+##*Marvel vs. Dc.*## 
 >This is the age old question of most superhero fans everywhere. You are either Marvel or DC, and very rarely are you both. What is this choice based off of? Is it a popularity contest, or is one better than the other? I decided to take a look at the true Marvel vs. DC contest, in its original form. Comics. So how could we look at this? Well, if it's a popularity contest, who was the most popular? I decided to look at cold hard facts first. Who had the most appearances in the comics? Who were are top superheros? What about female superheros? And villians? So using a FiveThirtyEight data set, I began my quest to find out, who truly was the most popular. Marvel or DC.
 
 
