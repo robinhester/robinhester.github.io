@@ -68,7 +68,7 @@ name: Robin Hester
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 rss: True
-email: "robin.hester@yahoo.com"
+#email: "robin.hester@yahoo.com"
   facebook: "www.facebook.com/robin.hester.942"
   github: "www.github.com/robinhester"
   #twitter: daattali
