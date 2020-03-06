@@ -2,9 +2,8 @@
 layout: post
 title: Marvel Vs DC
 subtitle: Let's answer the age old question
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [DC][Marvel][Comics]
+gh-badge: [star]
+tags: 
 comments: true
 ---
 *Marvel vs. Dc.* 
@@ -19,13 +18,13 @@ comments: true
 
 I began by looking at total amount of appearances, versus the amount of years they had been in the comics. Just because they had been around longer, does not mean that they were the most popular. So I came up with an average of appearances per year they had been in the comics and this gave me my totals. 
 
-![image] (https://github.com/robinhester/robinhester.github.io/blob/master/img/graph1build.PNG)
+![graph] (https://github.com/robinhester/robinhester.github.io/blob/master/img/graph1build.PNG)
 
 >Overall, Marvel had the most popular characters. With only a few DC favorites, Superman being number one overall, it was clear who the winner here was. Marvel characters by far beat out DC in the overall popularity, but Superman was still the most popular. 
 
 *What about the women?* 
 
-![image] https://github.com/robinhester/robinhester.github.io/blob/master/img/graph2build.PNG){:center-block:}
+![graph2] (https://github.com/robinhester/robinhester.github.io/blob/master/img/graph2build.PNG)
 
 >Well overall, Marvel won that as well. There was only one woman superhero in the entire top ten that was a DC character, which is Kora Zor-El, aka, Superwoman. So far, the top DC is still Superman and Superwoman, but, Marvel is beating out DC, overall. 
 
