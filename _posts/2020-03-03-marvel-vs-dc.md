@@ -18,7 +18,7 @@ comments: true
 
 I began by looking at total amount of appearances, versus the amount of years they had been in the comics. Just because they had been around longer, does not mean that they were the most popular. So I came up with an average of appearances per year they had been in the comics and this gave me my totals. 
 
-![graph] (https://github.com/robinhester/robinhester.github.io/blob/master/img/graph1build.PNG)
+![graph] (https://github.com/robinhester/robinhester.github.io/blob/master/img/graph1build.PNG?raw=true)
 
 >Overall, Marvel had the most popular characters. With only a few DC favorites, Superman being number one overall, it was clear who the winner here was. Marvel characters by far beat out DC in the overall popularity, but Superman was still the most popular. 
 
