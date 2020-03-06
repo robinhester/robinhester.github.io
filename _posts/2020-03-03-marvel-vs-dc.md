@@ -32,7 +32,7 @@ I began by looking at total amount of appearances, versus the amount of years th
 
 ![graph3](https://github.com/robinhester/robinhester.github.io/blob/master/img/graph3build.PNG?raw=true)
 
->So then I took a look at the villans. And yet again I am seeing a trend here. Lex Luther, from Superman, is number one. But the rest of the popular villans are still all marvel characters. Infact, almost all of them are from the Earth 616 series. 
+>So then I took a look at the villans. And yet again I am seeing a trend here. Lex Luther, from Superman, is number one. But the rest of the popular villans are still all marvel characters. In fact, almost all of them are from the Earth 616 series. 
 
 >The Earth 616 series, is the most popular Marvel X-men series. This being said, since X-men is such a large series, it stands to reason that X-men is just more popular than most of the DC comics. However, Superman is more popular than the X-men series. So again, I'm back to my original question, which one is truly more popular?
 
