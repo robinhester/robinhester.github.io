@@ -19,19 +19,19 @@ comments: true
 
 I began by looking at total amount of appearances, versus the amount of years they had been in the comics. Just because they had been around longer, does not mean that they were the most popular. So I came up with an average of appearances per year they had been in the comics and this gave me my totals. 
 
-image:/robinhester.github.io/img/graph1build.PNG
+image: robinhester.github.io/img/graph1build.PNG
 
 >Overall, Marvel had the most popular characters. With only a few DC favorites, Superman being number one overall, it was clear who the winner here was. Marvel characters by far beat out DC in the overall popularity, but Superman was still the most popular. 
 
 *What about the women?* 
 
-image:/robinhester.github.io/img/graph2build.PNG
+image: robinhester.github.io/img/graph2build.PNG
 
 >Well overall, Marvel won that as well. There was only one woman superhero in the entire top ten that was a DC character, which is Kora Zor-El, aka, Superwoman. So far, the top DC is still Superman and Superwoman, but, Marvel is beating out DC, overall. 
 
 *Villians?*
 
-image:/robinhester.github.io/img/graph3build.PNG
+image: robinhester.github.io/img/graph3build.PNG
 
 >So then I took a look at the villans. And yet again I am seeing a trend here. Lex Luther, from Superman, is number one. But the rest of the popular villans are still all marvel characters. Infact, almost all of them are from the Earth 616 series. 
 
@@ -47,7 +47,7 @@ I did a poll, using multiple facebook groups. I got responses from all over the 
 >I chose D.C. Villians to check my work because that's actually my personal favorite, but could have used any of the groups I checked. 
 
 *Results*
-image:/robinhester.github.io/img/Combined 2nd draft.png
+image: robinhester.github.io/img/Combined 2nd draft.png
 
 Overall, there really wasn't a lot of correlation. Joker was the most popular with the poll, but Lex Luther was more popular by appearances. 
 
