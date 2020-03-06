@@ -46,7 +46,7 @@ I did a poll, using multiple facebook groups. I got responses from all over the 
 >I chose D.C. Villians to check my work because that's actually my personal favorite, but could have used any of the groups I checked. 
 
 *Results*
-[graph4](https://github.com/robinhester/robinhester.github.io/blob/master/img/Combined%202nd%20draft.png?raw=true)
+![graph4](https://github.com/robinhester/robinhester.github.io/blob/master/img/Combined%202nd%20draft.png?raw=true)
 
 Overall, there really wasn't a lot of correlation. Joker was the most popular with the poll, but Lex Luther was more popular by appearances. 
 
