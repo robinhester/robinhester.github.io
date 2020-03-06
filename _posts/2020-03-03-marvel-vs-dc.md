@@ -38,7 +38,7 @@ I began by looking at total amount of appearances, versus the amount of years th
 
 This is probably a question that can't be truly answered. But overall, I'm showing proof that Superman and X-men are both popular in the comics.
 
-I wanted to see if there was any correlation between the appearances, the Sex of the character, and the alignment of the character. Would the fact that they were female, change the amount of appearances they had? Would the fact that they were a neutral character change things? I ran some tests, and it was pretty obvious, there was nocorrelation between any of these variables. 
+I wanted to see if there was any correlation between the appearances, the sex of the character, and the alignment of the character. Would the fact that they were female, change the amount of appearances they had? Would the fact that they were a neutral character change things? I ran some tests, and it was pretty obvious, there was no correlation between any of these variables. 
 
 *So how could I check my work?*
 
