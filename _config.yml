@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "il_570xN.1442844979_eh40.png"
+avatar: "https://github.com/robinhester/robinhester.github.io/blob/master/img/FB_IMG_1582223907900.png?raw=true"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -67,10 +67,10 @@ name: Robin Hester
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-rss: false
-  #email: "robin.hester@yahoo.com"
-  #facebook: "www.facebook.com/robin.hester.942"
-  #github: "www.github.com/robinhester"
+rss: True
+  email: "robin.hester@yahoo.com"
+  facebook: "www.facebook.com/robin.hester.942"
+  github: "www.github.com/robinhester"
   #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
