@@ -27,13 +27,13 @@ image:/robinhester.github.io/img/graph1build.PNG
 
 image:/robinhester.github.io/img/graph2build.PNG
 
->Well overall, Marvel one that as well. There was only one woman superhero in the entire top ten that was a DC character, which is Kora Zor-El, aka, Superwoman. So so far, the top DC is still Superman and Superwoman, but, Marvel is beating out DC, overall. 
+>Well overall, Marvel won that as well. There was only one woman superhero in the entire top ten that was a DC character, which is Kora Zor-El, aka, Superwoman. So far, the top DC is still Superman and Superwoman, but, Marvel is beating out DC, overall. 
 
 *Villians?*
 
 image:/robinhester.github.io/img/graph3build.PNG
 
->So then I took a look at the villans. And yet again I am seeing a trend here. Lex Luther, from superman, is number one. But the rest of the popular villans are still all marvel characters. Infact, almost all of them are from the Earth 616 series. 
+>So then I took a look at the villans. And yet again I am seeing a trend here. Lex Luther, from Superman, is number one. But the rest of the popular villans are still all marvel characters. Infact, almost all of them are from the Earth 616 series. 
 
 >The Earth 616 series, is the most popular Marvel X-men series. This being said, since X-men is such a large series, it stands to reason that X-men is just more popular than most of the DC comics. However, Superman is more popular than the X-men series. So again, I'm back to my original question, which one is truly more popular?
 
