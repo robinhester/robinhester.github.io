@@ -6,11 +6,6 @@ gh-badge: [star]
 tags: [Youtube,Predictive Modeling] 
 comments: true
 ---
-<p align="center">
-<img width="1000" height="300" src="https://github.com/robinhester/robinhester.github.io/blob/master/img/new-youtube-logo.jpg?raw=true"
-</p>
-
----
 _**Youtube and Predictive Modeling**_
 ---
 Like most of the world, I have been in quarantine since early March. And I don’t know about anybody else, 
